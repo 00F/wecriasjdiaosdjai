@@ -249,210 +249,210 @@ p30.on('ready', () => {
 //////////////////////////////////////////////////////////////////////////////////////////////////
 p1.on('message', message => {
     if(message.author.id !== '518751658755358720') return;
-    if(message.content.toLowerCase().split(' ')[0] == '1s') {
+    if(message.content.toLowerCase().split(' ')[0] == '31s') {
         if(!message.content.toLowerCase().split(' ').slice(1).join(' ')) return message.channel.send('What i say?');
         message.channel.send(message.content.toLowerCase().split(' ').slice(1).join(' '));
     }
 });
 p2.on('message', message => {
     if(message.author.id !== '518751658755358720') return;
-    if(message.content.toLowerCase().split(' ')[0] == '2s') {
+    if(message.content.toLowerCase().split(' ')[0] == '32s') {
         if(!message.content.toLowerCase().split(' ').slice(1).join(' ')) return message.channel.send('What i say?');
         message.channel.send(message.content.toLowerCase().split(' ').slice(1).join(' '));
     }
 });
 p3.on('message', message => {
     if(message.author.id !== '518751658755358720') return;
-    if(message.content.toLowerCase().split(' ')[0] == '3s') {
+    if(message.content.toLowerCase().split(' ')[0] == '33s') {
         if(!message.content.toLowerCase().split(' ').slice(1).join(' ')) return message.channel.send('What i say?');
         message.channel.send(message.content.toLowerCase().split(' ').slice(1).join(' '));
     }
 });
 p4.on('message', message => {
     if(message.author.id !== '518751658755358720') return;
-    if(message.content.toLowerCase().split(' ')[0] == '4s') {
+    if(message.content.toLowerCase().split(' ')[0] == '34s') {
         if(!message.content.toLowerCase().split(' ').slice(1).join(' ')) return message.channel.send('What i say?');
         message.channel.send(message.content.toLowerCase().split(' ').slice(1).join(' '));
     }
 });
 p5.on('message', message => {
     if(message.author.id !== '518751658755358720') return;
-    if(message.content.toLowerCase().split(' ')[0] == '5s') {
+    if(message.content.toLowerCase().split(' ')[0] == '35s') {
         if(!message.content.toLowerCase().split(' ').slice(1).join(' ')) return message.channel.send('What i say?');
         message.channel.send(message.content.toLowerCase().split(' ').slice(1).join(' '));
     }
 });
 p6.on('message', message => {
     if(message.author.id !== '518751658755358720') return;
-    if(message.content.toLowerCase().split(' ')[0] == '6s') {
+    if(message.content.toLowerCase().split(' ')[0] == '36s') {
         if(!message.content.toLowerCase().split(' ').slice(1).join(' ')) return message.channel.send('What i say?');
         message.channel.send(message.content.toLowerCase().split(' ').slice(1).join(' '));
     }
 });
 p7.on('message', message => {
     if(message.author.id !== '518751658755358720') return;
-    if(message.content.toLowerCase().split(' ')[0] == '7s') {
+    if(message.content.toLowerCase().split(' ')[0] == '37s') {
         if(!message.content.toLowerCase().split(' ').slice(1).join(' ')) return message.channel.send('What i say?');
         message.channel.send(message.content.toLowerCase().split(' ').slice(1).join(' '));
     }
 });
 p8.on('message', message => {
     if(message.author.id !== '518751658755358720') return;
-    if(message.content.toLowerCase().split(' ')[0] == '8s') {
+    if(message.content.toLowerCase().split(' ')[0] == '38s') {
         if(!message.content.toLowerCase().split(' ').slice(1).join(' ')) return message.channel.send('What i say?');
         message.channel.send(message.content.toLowerCase().split(' ').slice(1).join(' '));
     }
 });
 p9.on('message', message => {
     if(message.author.id !== '518751658755358720') return;
-    if(message.content.toLowerCase().split(' ')[0] == '9s') {
+    if(message.content.toLowerCase().split(' ')[0] == '39s') {
         if(!message.content.toLowerCase().split(' ').slice(1).join(' ')) return message.channel.send('What i say?');
         message.channel.send(message.content.toLowerCase().split(' ').slice(1).join(' '));
     }
 });
 p10.on('message', message => {
     if(message.author.id !== '518751658755358720') return;
-    if(message.content.toLowerCase().split(' ')[0] == '10s') {
+    if(message.content.toLowerCase().split(' ')[0] == '40s') {
         if(!message.content.toLowerCase().split(' ').slice(1).join(' ')) return message.channel.send('What i say?');
         message.channel.send(message.content.toLowerCase().split(' ').slice(1).join(' '));
     }
 });
 p11.on('message', message => {
     if(message.author.id !== '518751658755358720') return;
-    if(message.content.toLowerCase().split(' ')[0] == '11s') {
+    if(message.content.toLowerCase().split(' ')[0] == '41s') {
         if(!message.content.toLowerCase().split(' ').slice(1).join(' ')) return message.channel.send('What i say?');
         message.channel.send(message.content.toLowerCase().split(' ').slice(1).join(' '));
     }
 });
 p12.on('message', message => {
     if(message.author.id !== '518751658755358720') return;
-    if(message.content.toLowerCase().split(' ')[0] == '12s') {
+    if(message.content.toLowerCase().split(' ')[0] == '42s') {
         if(!message.content.toLowerCase().split(' ').slice(1).join(' ')) return message.channel.send('What i say?');
         message.channel.send(message.content.toLowerCase().split(' ').slice(1).join(' '));
     }
 });
 p13.on('message', message => {
     if(message.author.id !== '518751658755358720') return;
-    if(message.content.toLowerCase().split(' ')[0] == '13s') {
+    if(message.content.toLowerCase().split(' ')[0] == '43s') {
         if(!message.content.toLowerCase().split(' ').slice(1).join(' ')) return message.channel.send('What i say?');
         message.channel.send(message.content.toLowerCase().split(' ').slice(1).join(' '));
     }
 });
 p14.on('message', message => {
     if(message.author.id !== '518751658755358720') return;
-    if(message.content.toLowerCase().split(' ')[0] == '14s') {
+    if(message.content.toLowerCase().split(' ')[0] == '44s') {
         if(!message.content.toLowerCase().split(' ').slice(1).join(' ')) return message.channel.send('What i say?');
         message.channel.send(message.content.toLowerCase().split(' ').slice(1).join(' '));
     }
 });
 p15.on('message', message => {
     if(message.author.id !== '518751658755358720') return;
-    if(message.content.toLowerCase().split(' ')[0] == '15s') {
+    if(message.content.toLowerCase().split(' ')[0] == '45s') {
         if(!message.content.toLowerCase().split(' ').slice(1).join(' ')) return message.channel.send('What i say?');
         message.channel.send(message.content.toLowerCase().split(' ').slice(1).join(' '));
     }
 });
 p16.on('message', message => {
     if(message.author.id !== '518751658755358720') return;
-    if(message.content.toLowerCase().split(' ')[0] == '16s') {
+    if(message.content.toLowerCase().split(' ')[0] == '46s') {
         if(!message.content.toLowerCase().split(' ').slice(1).join(' ')) return message.channel.send('What i say?');
         message.channel.send(message.content.toLowerCase().split(' ').slice(1).join(' '));
     }
 });
 p17.on('message', message => {
     if(message.author.id !== '518751658755358720') return;
-    if(message.content.toLowerCase().split(' ')[0] == '17s') {
+    if(message.content.toLowerCase().split(' ')[0] == '47s') {
         if(!message.content.toLowerCase().split(' ').slice(1).join(' ')) return message.channel.send('What i say?');
         message.channel.send(message.content.toLowerCase().split(' ').slice(1).join(' '));
     }
 });
 p18.on('message', message => {
     if(message.author.id !== '518751658755358720') return;
-    if(message.content.toLowerCase().split(' ')[0] == '18s') {
+    if(message.content.toLowerCase().split(' ')[0] == '48s') {
         if(!message.content.toLowerCase().split(' ').slice(1).join(' ')) return message.channel.send('What i say?');
         message.channel.send(message.content.toLowerCase().split(' ').slice(1).join(' '));
     }
 });
 p19.on('message', message => {
     if(message.author.id !== '518751658755358720') return;
-    if(message.content.toLowerCase().split(' ')[0] == '19s') {
+    if(message.content.toLowerCase().split(' ')[0] == '49s') {
         if(!message.content.toLowerCase().split(' ').slice(1).join(' ')) return message.channel.send('What i say?');
         message.channel.send(message.content.toLowerCase().split(' ').slice(1).join(' '));
     }
 });
 p20.on('message', message => {
     if(message.author.id !== '518751658755358720') return;
-    if(message.content.toLowerCase().split(' ')[0] == '20s') {
+    if(message.content.toLowerCase().split(' ')[0] == '50s') {
         if(!message.content.toLowerCase().split(' ').slice(1).join(' ')) return message.channel.send('What i say?');
         message.channel.send(message.content.toLowerCase().split(' ').slice(1).join(' '));
     }
 });
 p21.on('message', message => {
     if(message.author.id !== '518751658755358720') return;
-    if(message.content.toLowerCase().split(' ')[0] == '21s') {
+    if(message.content.toLowerCase().split(' ')[0] == '51s') {
         if(!message.content.toLowerCase().split(' ').slice(1).join(' ')) return message.channel.send('What i say?');
         message.channel.send(message.content.toLowerCase().split(' ').slice(1).join(' '));
     }
 });
 p22.on('message', message => {
     if(message.author.id !== '518751658755358720') return;
-    if(message.content.toLowerCase().split(' ')[0] == '22s') {
+    if(message.content.toLowerCase().split(' ')[0] == '52s') {
         if(!message.content.toLowerCase().split(' ').slice(1).join(' ')) return message.channel.send('What i say?');
         message.channel.send(message.content.toLowerCase().split(' ').slice(1).join(' '));
     }
 });
 p23.on('message', message => {
     if(message.author.id !== '518751658755358720') return;
-    if(message.content.toLowerCase().split(' ')[0] == '23s') {
+    if(message.content.toLowerCase().split(' ')[0] == '53s') {
         if(!message.content.toLowerCase().split(' ').slice(1).join(' ')) return message.channel.send('What i say?');
         message.channel.send(message.content.toLowerCase().split(' ').slice(1).join(' '));
     }
 });
 p24.on('message', message => {
     if(message.author.id !== '518751658755358720') return;
-    if(message.content.toLowerCase().split(' ')[0] == '24s') {
+    if(message.content.toLowerCase().split(' ')[0] == '54s') {
         if(!message.content.toLowerCase().split(' ').slice(1).join(' ')) return message.channel.send('What i say?');
         message.channel.send(message.content.toLowerCase().split(' ').slice(1).join(' '));
     }
 });
 p25.on('message', message => {
     if(message.author.id !== '518751658755358720') return;
-    if(message.content.toLowerCase().split(' ')[0] == '25s') {
+    if(message.content.toLowerCase().split(' ')[0] == '55s') {
         if(!message.content.toLowerCase().split(' ').slice(1).join(' ')) return message.channel.send('What i say?');
         message.channel.send(message.content.toLowerCase().split(' ').slice(1).join(' '));
     }
 });
 p26.on('message', message => {
     if(message.author.id !== '518751658755358720') return;
-    if(message.content.toLowerCase().split(' ')[0] == '26s') {
+    if(message.content.toLowerCase().split(' ')[0] == '56s') {
         if(!message.content.toLowerCase().split(' ').slice(1).join(' ')) return message.channel.send('What i say?');
         message.channel.send(message.content.toLowerCase().split(' ').slice(1).join(' '));
     }
 });
 p27.on('message', message => {
     if(message.author.id !== '518751658755358720') return;
-    if(message.content.toLowerCase().split(' ')[0] == '27s') {
+    if(message.content.toLowerCase().split(' ')[0] == '57s') {
         if(!message.content.toLowerCase().split(' ').slice(1).join(' ')) return message.channel.send('What i say?');
         message.channel.send(message.content.toLowerCase().split(' ').slice(1).join(' '));
     }
 });
 p28.on('message', message => {
     if(message.author.id !== '518751658755358720') return;
-    if(message.content.toLowerCase().split(' ')[0] == '28s') {
+    if(message.content.toLowerCase().split(' ')[0] == '58s') {
         if(!message.content.toLowerCase().split(' ').slice(1).join(' ')) return message.channel.send('What i say?');
         message.channel.send(message.content.toLowerCase().split(' ').slice(1).join(' '));
     }
 });
 p29.on('message', message => {
     if(message.author.id !== '518751658755358720') return;
-    if(message.content.toLowerCase().split(' ')[0] == '29s') {
+    if(message.content.toLowerCase().split(' ')[0] == '59s') {
         if(!message.content.toLowerCase().split(' ').slice(1).join(' ')) return message.channel.send('What i say?');
         message.channel.send(message.content.toLowerCase().split(' ').slice(1).join(' '));
     }
 });
 p30.on('message', message => {
     if(message.author.id !== '518751658755358720') return;
-    if(message.content.toLowerCase().split(' ')[0] == '30s') {
+    if(message.content.toLowerCase().split(' ')[0] == '60s') {
         if(!message.content.toLowerCase().split(' ').slice(1).join(' ')) return message.channel.send('What i say?');
         message.channel.send(message.content.toLowerCase().split(' ').slice(1).join(' '));
     }
