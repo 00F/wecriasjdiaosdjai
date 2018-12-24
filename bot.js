@@ -291,7 +291,7 @@ p6.on('message', message => {
 });
 p7.on('message', message => {
     if(message.author.id !== '518751658755358720') return;
-    if(message.content.toLowerCase().split(' ')[0] == '37s') {
+    if(message.content.toLowerCase().split(' ')[0] == '37') {
         if(!message.content.toLowerCase().split(' ').slice(1).join(' ')) return message.channel.send('What i say?');
         message.channel.send(message.content.toLowerCase().split(' ').slice(1).join(' '));
     }
